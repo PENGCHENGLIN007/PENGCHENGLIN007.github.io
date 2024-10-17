@@ -1,7 +1,6 @@
 ---
-title: 万事开头难
+title: home
 ---
-一生二，二生三，三生万物
 
 ## PCL & BLOB
 
